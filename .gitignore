@@ -1,0 +1,11 @@
+*.zip
+data/*.csv
+models/*.hdf5
+models/*.h5
+models/*.bin
+sample_submission/*
+submission/.ipynb_checkpoints/*
+submission/*.bin
+submission/*.h5
+submission/*.hdf5
+.ipynb_checkpoints/*
