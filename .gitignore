@@ -9,3 +9,4 @@ submission/*.bin
 submission/*.h5
 submission/*.hdf5
 .ipynb_checkpoints/*
+models/checkpoints/*.hdf5
